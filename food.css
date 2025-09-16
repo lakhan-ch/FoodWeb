@@ -1,0 +1,11 @@
+/* Hero Section Styling */
+.hero {
+  background-image: url('https://source.unsplash.com/1600x600/?food,restaurant');
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+}
+
+footer p {
+  margin: 0;
+}
